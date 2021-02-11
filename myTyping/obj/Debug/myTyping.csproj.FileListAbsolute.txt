@@ -10,3 +10,15 @@ D:\myGit\typing\myTyping\myTyping\obj\Debug\myTyping.exe
 D:\myGit\typing\myTyping\myTyping\obj\Debug\myTyping.pdb
 D:\myGit\typing\myTyping\myTyping\bin\Debug\Data\myTyping202012.txt
 D:\myGit\typing\myTyping\myTyping\bin\Debug\Data\TextFile1.txt
+D:\myGit\myTypingGame\myTyping\bin\Debug\Data\myTyping202012.txt
+D:\myGit\myTypingGame\myTyping\bin\Debug\Data\TextFile1.txt
+D:\myGit\myTypingGame\myTyping\bin\Debug\myTyping.exe.config
+D:\myGit\myTypingGame\myTyping\bin\Debug\myTyping.exe
+D:\myGit\myTypingGame\myTyping\bin\Debug\myTyping.pdb
+D:\myGit\myTypingGame\myTyping\obj\Debug\myTyping.csprojAssemblyReference.cache
+D:\myGit\myTypingGame\myTyping\obj\Debug\myTyping.Form1.resources
+D:\myGit\myTypingGame\myTyping\obj\Debug\myTyping.Properties.Resources.resources
+D:\myGit\myTypingGame\myTyping\obj\Debug\myTyping.csproj.GenerateResource.cache
+D:\myGit\myTypingGame\myTyping\obj\Debug\myTyping.csproj.CoreCompileInputs.cache
+D:\myGit\myTypingGame\myTyping\obj\Debug\myTyping.exe
+D:\myGit\myTypingGame\myTyping\obj\Debug\myTyping.pdb
